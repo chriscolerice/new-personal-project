@@ -1,7 +1,10 @@
 import javax.swing.JOptionPane;
 public class pErt{
 
-
+//In in Program Evaluation Review Technique, 'O' is optimistic timeline.
+// P is the pessimistic timeline. R is the realistic timeline.
+  
+  
 public pErt(){
 }
 
